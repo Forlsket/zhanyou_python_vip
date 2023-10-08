@@ -4,11 +4,6 @@
 # @File : VIP视频解析
 
 
-# -*- coding:utf-8 -*-
-# file_name      vip_video.py
-
-
-# __author__ = '辗忧'
 
 import tkinter as tk
 import webbrowser
