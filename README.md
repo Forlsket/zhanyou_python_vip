@@ -1,2 +1,3 @@
 # zhanyou_python_vip
 这是一个python脚本用于解析vip视频
+无需安装有python环境跑脚本即可
