@@ -1,8 +1,4 @@
-# -*- coding:utf-8 -*-
-# file_name      vip_video_final.py
 
-
-# __author__ = 'charon'
 
 import tkinter as tk
 import webbrowser
